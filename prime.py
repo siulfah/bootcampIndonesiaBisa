@@ -9,3 +9,5 @@ def prime(bilangan):
         return "false"
 p = prime(2)
 print (p)
+
+#ini adalah contoh komentar bilangan prima

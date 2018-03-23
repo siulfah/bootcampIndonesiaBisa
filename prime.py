@@ -10,4 +10,4 @@ def prime(bilangan):
 p = prime(2)
 print (p)
 
-#ini adalah contoh komentar bilangan prima
+#hilangin komen

@@ -9,3 +9,4 @@ def prime(bilangan):
         return "false"
 p = prime(2)
 print (p)
+#tambah komentar 
